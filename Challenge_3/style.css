@@ -1,0 +1,21 @@
+div {
+    font-size:14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: White;
+    margin: 30px;
+    border: 2px dotted;
+    padding: 10px 20px;
+    width: 200px;
+    background-color: DarkGray;
+}
+
+.box1 {
+    margin: 30px;
+    padding: 10px;
+    background-color: DarkGray;
+}
+
+.box2 {
+    margin: 30px;
+    border: 10px DarkGray solid;
+}
