@@ -1,0 +1,35 @@
+.box { 
+   background: red; 
+   width: 150px; 
+   height: 150px;
+   margin: 0px 20px 20px 0px;
+}
+
+.clearfix:after {
+   content: " ";
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+
+.display {
+    display: inline-block;
+    margin: 0px 16px 20px 0px;
+}
+
+.float {
+    float: left;
+}
+
+.position {
+    position: absolute;
+}
+
+#c2 {
+    margin-left: 170px;
+}
+
+#c3 {
+    margin-left: 340px;
+}
